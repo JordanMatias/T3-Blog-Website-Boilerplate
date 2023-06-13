@@ -12,11 +12,7 @@ Feature request? feel free to start a new discussion thread. We are open for all
 
 
 ## Motivation
-We wanted to create and start a blog with as little investment as possible and the criteria was that it should be fast, static, easy to work on and no backend or server required, so we started working on a blog for ourself and in the middle we thought of making it in such a way that it is easy for others also including non techies to just simply download the code and start their own blog.
-
-We wanted to make it as feature rich as medium or dev.to, so we took some design ideas and inspirations from them and tried to make a template which suits our need and might help others too.
-
-In this template we have used Next.js SSG to create static HTML files which can be hosted on firebase or any static site hosting service. There is also options like vercel for hosting Next.js dynamic webistes but we wanted this template to be easy to use for any non techie person too, so we explored the option of static site generation.
+By using this blog boilerplate, you can easily build your own blog website. So you can build that project from scratch to deployment easily.
 
 
 ## Examples
@@ -58,9 +54,3 @@ npm start
 ## Support
 This is an open source project and everyone is welcome to contribute. Feel free to open an issue, if you have any questions or incase you find a bug. Create your versions of this template and help the community, also if you are using our template a little credit will be much appreciated.
 
-Created by **[Rupali Yadav](https://www.linkedin.com/in/rupali-yadav-087bb4112/)** and **[Mayur Nalwala](https://www.linkedin.com/in/mayur-nalwala/)** from [WebExpe](https://webexpe.com/) with ♥
-
-<a href="https://www.buymeacoffee.com/webexpe13z" target="_blank">![support us](/public/images/bmc.png)</a>
-## Licence
-
-[MIT](https://github.com/webexpe13/blog-template-using-nextjs-typescript-tailwindcss/blob/main/LICENSE) © [Web Expe](https://www.webexpe.com)
